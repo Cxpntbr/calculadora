@@ -1,2 +1,2 @@
 # calculadora
-calculadora básica em c#
+calculadora decimal em C-Sharp Incluindo: +,-,/,*.
