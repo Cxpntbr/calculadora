@@ -19,7 +19,7 @@ namespace CalculadoraProjeto
             Console.WriteLine("Digite seu operador (+, -, *, /, %):");
             string? operador = Console.ReadLine();
 
-            // AQUI ESTAVA O ERRO: Agora removemos o "resultado ="
+        
             if (operador == "+")
             {
                 Console.WriteLine("Resultado da soma: " + (num1 + num2));
@@ -49,4 +49,5 @@ namespace CalculadoraProjeto
             }
         }
     }
+
 }
